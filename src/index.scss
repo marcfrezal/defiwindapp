@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'DefiFont'; /*Can be any text*/
+  src: local('WaukeganHustle'),
+    url('./font/WaukeganHustle-Regular.ttf') format('truetype');
+}
+
+body {
+  margin: 0px !important;
+  height: 100vh !important;
+}
